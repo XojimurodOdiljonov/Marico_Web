@@ -1,0 +1,9 @@
+body {
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+*, *::after, *::before {
+    box-sizing: border-box;
+}
